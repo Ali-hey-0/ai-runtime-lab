@@ -1,0 +1,4 @@
+{
+  "step_1_read": "fake_pdf_content",
+  "step_2_llm": "Summary of fake_pdf_content"
+}
