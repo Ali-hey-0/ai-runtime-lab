@@ -2,3 +2,5 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+execution_log.json
+state.json
